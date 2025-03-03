@@ -18,7 +18,7 @@ Fin fonction
 
 ]]
 
--- Crible d'Ératosthène
+-- Crible d'Ératosthène 
 local function Crible(n) --entrée : N > 1 entier
     local L = {} --L = tableau de booléens de taille N, initialisés à Vrai
 
