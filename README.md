@@ -4,7 +4,7 @@
 
 ## Training Lua
 
-## 1. Vérificateur de Palindrome
+## 1. Vérificateur de Palindrome ✅
 
 Créez une fonction qui vérifie si une chaîne de caractères est un palindrome (se lit de la même façon de gauche à droite et de droite à gauche).
 
@@ -12,7 +12,7 @@ Créez une fonction qui vérifie si une chaîne de caractères est un palindrome
 - "kayak" → true
 - "bonjour" → false
 
-## 2. Compteur de Voyelles
+## 2. Compteur de Voyelles ✅
 
 Écrivez une fonction qui compte le nombre de voyelles (a, e, i, o, u) dans une chaîne de caractères. La fonction doit être insensible à la casse.
 
@@ -20,7 +20,7 @@ Créez une fonction qui vérifie si une chaîne de caractères est un palindrome
 - "Bonjour" → 3
 - "PHP" → 0
 
-## 3. Générateur de Nombres de Fibonacci
+## 3. Générateur de Nombres de Fibonacci ✅
 
 Créez une fonction qui génère les n premiers nombres de la suite de Fibonacci (où chaque nombre est la somme des deux précédents: 0, 1, 1, 2, 3, 5, 8, ...).
 
@@ -28,7 +28,7 @@ Créez une fonction qui génère les n premiers nombres de la suite de Fibonacci
 - n = 6 → [0, 1, 1, 2, 3, 5]
 - n = 10 → [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 
-## 4. Trouveur du Plus Grand Commun Diviseur (PGCD)
+## 4. Trouveur du Plus Grand Commun Diviseur (PGCD) ✅
 
 Écrivez une fonction qui calcule le PGCD de deux nombres entiers positifs en utilisant l'algorithme d'Euclide.
 
@@ -36,7 +36,7 @@ Créez une fonction qui génère les n premiers nombres de la suite de Fibonacci
 - PGCD(48, 18) → 6
 - PGCD(17, 13) → 1
 
-## 5. Filtre de Nombres Premiers
+## 5. Filtre de Nombres Premiers ✅
 
 Développez une fonction qui trouve tous les nombres premiers jusqu'à un nombre n donné, en utilisant le crible d'Ératosthène.
 
