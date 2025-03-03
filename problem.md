@@ -2,6 +2,8 @@
 <img src="/img/Lua-banner.png">
 </div>
 
+## Training Lua
+
 ## 1. Vérificateur de Palindrome
 
 Créez une fonction qui vérifie si une chaîne de caractères est un palindrome (se lit de la même façon de gauche à droite et de droite à gauche).
