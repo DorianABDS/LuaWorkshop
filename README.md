@@ -44,7 +44,7 @@ Développez une fonction qui trouve tous les nombres premiers jusqu'à un nombre
 - n = 10 → [2, 3, 5, 7]
 - n = 20 → [2, 3, 5, 7, 11, 13, 17, 19]
 
-## 6. Validateur d'Adresse Email
+## 6. Validateur d'Adresse Email ✅
 
 Créez une fonction qui vérifie si une chaîne de caractères est une adresse email valide en utilisant les expressions régulières.
 
@@ -52,7 +52,7 @@ Créez une fonction qui vérifie si une chaîne de caractères est une adresse e
 - "user@example.com" → true
 - "invalid_email" → false
 
-## 7. Tri de Tableaux Associatifs
+## 7. Tri de Tableaux Associatifs ✅
 
 Écrivez une fonction qui trie un tableau d'objets (tableaux associatifs) par une propriété spécifique.
 
